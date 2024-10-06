@@ -34,4 +34,4 @@ project-root/
 ├── *tests/*
 ├── .venv/ (not committed, virtual environment folder)
 ├── .gitignore
-├── README.md
+└── README.md
