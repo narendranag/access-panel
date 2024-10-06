@@ -1,4 +1,24 @@
-Directory Structure
+# Base Project Structure
+
+## Stack
+
+Flask 
+HTMX
+DaisyUI + Tailwind CSS
+
+## ORM
+
+To Do
+
+## Auth
+
+To Do
+
+## Deployment
+
+To Railway 
+
+## Directory Structure
 
 project-root/
 ├── backend/
